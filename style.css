@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+#head {
+  text-align:center;
+  color:aquapink;
+}
+* {
+  background-color:black;
+  font-family:'Syne Mono',monospace;
+}
+#para {
+  color:pink;
+  text-align:center;
+  padding:5%;
+  font-size:25px;
+}
+#fool {
+  color:pink;
+  padding:5%;
+  font-size:25px;
+}
+.rickroll {
+  margin-left:550px
+}
